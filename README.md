@@ -11,7 +11,7 @@ NYU ITP, Fall 2020
 ## Overview
 
 #### COURSE DESCRIPTION
-In the words of Ernesto Oroza in Technological Disobedience - "Más severa es la crisis, más poderosa es la creatividad de las personas” (The more severe the crisis, the more powerful is the creativity of the people).
+In the words of Ernesto Oroza in Technological Disobedience - _"Más severa es la crisis, más poderosa es la creatividad de las personas”_ (The more severe the crisis, the more powerful is the creativity of the people).
 In this special format of Project Development Studio, students will look into techniques and frameworks to design and develop projects with limited resources during turbulent times.
 
 This is a production heavy four-credit course, where students will be required to propose a single project that will be researched and expanded during the semester utilizing creative practices that exist outside of the mainstream.
