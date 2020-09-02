@@ -31,7 +31,7 @@ This is a production heavy four-credit course, where students will be required t
 - Disobedient Objects / Art and Protest
 - In-Class Workshop: *Idea Mapping*
 
-#### #3: ## 3. Appropriating Technology (09/21/20)
+#### #3: Appropriating Technology (09/21/20)
 - Technological Disobedience
 - Hacktivism / Shanzhai / Gongkai
 - In-Class Workshop: *Pitch Deck*
