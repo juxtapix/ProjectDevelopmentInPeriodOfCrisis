@@ -1,4 +1,4 @@
-# Project Development in a Period of Crisis
+# Project Development in Period of Crisis
 
 
 Pedro Oliveira   
