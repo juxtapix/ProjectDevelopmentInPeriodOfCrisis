@@ -67,7 +67,7 @@ This is a production heavy four-credit course, where students will be required t
 #### #10: Playtest (11/09/20)
 - How do you playtest at this times?
 - Asking the right questions.
-- 1:1 Playtest session
+- Developing a Playtest session
 
 #### #11: The Deck (11/16/20)
 - The Devil is in the details.
